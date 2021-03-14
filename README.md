@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [vincentduguet.com](https://vincentduguet.com/)
 
