@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [vincentduguet.com](https://vincentduguet.com/)
-
 - 📫 How to reach me **v.duguet.dev@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikyuu&show_icons=true&theme=radical" alt="eikyuu" /></p>
